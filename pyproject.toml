@@ -1,0 +1,11 @@
+[project]
+name = "dist-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.9.0",
+    "debugpy-run>=1.14",
+    "transformers>=4.54.0",
+]
