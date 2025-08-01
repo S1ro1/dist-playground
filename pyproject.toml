@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.9.0",
     "debugpy-run>=1.14",
+    "safetensors>=0.5.3",
+    "torchvision>=0.22.1",
     "transformers>=4.54.0",
 ]
